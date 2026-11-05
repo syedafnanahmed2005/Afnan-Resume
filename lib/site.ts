@@ -7,7 +7,7 @@ export const site = {
   phoneHref: "tel:+923282843359",
   whatsappHref: "https://wa.me/923282843359",
   location: "Islamabad, Pakistan",
-  resumeHref: "/Syed_Afnan_Ahmed_Resume.pdf",
+  resumeHref: "/SENIOR_SEO_SPECIALIST _SOCIAL_MEDIA_MANAGER.pdf",
   // Add real profile URLs here (e.g. LinkedIn) and they appear in the Contact section automatically.
   links: [] as { label: string; href: string }[],
   description:
