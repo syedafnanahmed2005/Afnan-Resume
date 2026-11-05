@@ -24,7 +24,7 @@ export default function Home() {
         <Skills />
         <Tools />
         <Platforms />
-        <Education />
+        {/* <Education /> */}
         <Contact />
       </main>
       <Footer />
