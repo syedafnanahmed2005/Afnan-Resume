@@ -40,7 +40,7 @@ export default function Hero() {
 
       <div className="shell">
         <motion.p {...fade(0.1)} className="eyebrow">
-          Portfolio · Islamabad, Pakistan
+        Islamabad, Pakistan
         </motion.p>
 
         <h1 className="mt-8 font-display text-[clamp(3.4rem,11.5vw,9.5rem)] font-extrabold leading-[0.92] tracking-[-0.04em] text-white">
